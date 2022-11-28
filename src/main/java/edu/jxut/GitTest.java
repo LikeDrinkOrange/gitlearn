@@ -4,6 +4,8 @@ package edu.jxut;/**
  * @date 2022/11/28 19:59
  */
 
+import org.omg.Messaging.SyncScopeHelper;
+
 /**
  * @ClassName GitTest
  * @Description
@@ -16,5 +18,6 @@ package edu.jxut;/**
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("helloworld");
+        System.out.println("helloworld1");
     }
 }
